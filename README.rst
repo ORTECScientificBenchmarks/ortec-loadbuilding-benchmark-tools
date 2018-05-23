@@ -21,7 +21,7 @@ This package is specific for the loadbuilding benchmark instances and provides i
 * Solution Viewer tool
 
 .. figure:: Viewer.png
-   :width: 80 %
+   :width: 40 %
    :alt: Solution Viewer
    :align: center
    
