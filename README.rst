@@ -20,7 +20,7 @@ This package is specific for the loadbuilding benchmark instances and provides i
   
 * Solution Viewer tool
 
-.. figure:: Viewer.png
+.. figure:: https://raw.githubusercontent.com/ORTECScientificBenchmarks/ortec-loadbuilding-benchmark-tools/master/Viewer.png
    :width: 40 %
    :alt: Solution Viewer
    :align: center
