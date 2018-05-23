@@ -20,10 +20,12 @@ This package is specific for the loadbuilding benchmark instances and provides i
   
 * Solution Viewer tool
 
-.. image:: Viewer.png
+.. figure:: Viewer.png
    :width: 80 %
    :alt: Solution Viewer
    :align: center
+   
+   Screenshot of the Solution Viewer
 
 __ https://benchmarks.ortec.com/
 
