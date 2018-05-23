@@ -8,12 +8,16 @@ In order to allow you to get right to solving them, several Python tools have be
 This package is specific for the loadbuilding benchmark instances and provides in short the following functionality:
 
 * Instance
+
   * File-type Conversion tool
   * Data Validity Checking tool
   * Find Appliccable Constraints and Objectives tool
+  
 * Solution
+
   * File-type Conversion tool
   * Validation tool
+  
 * Solution Viewer tool
 
 .. image:: Viewer.png
