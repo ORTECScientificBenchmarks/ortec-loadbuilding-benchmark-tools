@@ -24,6 +24,7 @@ This package is specific for the loadbuilding benchmark instances and provides i
    :width: 40 %
    :alt: Solution Viewer
    :align: center
+   :figwidt: image
    
    Screenshot of the Solution Viewer
 
